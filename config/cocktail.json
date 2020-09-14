@@ -1,0 +1,52 @@
+{
+    "French75": {
+        "GIN": "1 oz",
+        "LEMON_JUICE": "1/2 oz",
+        "SIMPLE_SYRUP": "1/2 oz",
+        "SPARKLING_WATER": "3 oz",
+        "GARNISH": "lemon_twist"
+    },
+    "WhiskeySour": {
+        "WHISKEY": "2 oz",
+        "LEMON_JUICE": "3/4 oz",
+        "SIMPLE_SYRUP": "1/2 oz",
+        "GARNISH": "lemon peel"
+    },
+    "Mojito": {
+        "MINT": "10 leaves",
+        "LIME": "1",
+        "SUGAR": "two table spoons",
+        "WHITE_RUM": "1 1/2 oz",
+        "SPARKLING_WATER": "1/2 cup"
+    },
+    "BeesKnees": {
+        "GIN": "2 zo",
+        "LEMON_JUICE": "0.5 oz",
+        "HONEY_SYRUP": "0.5 oz"
+    },
+    "Margarita": {
+        "TEQUILA": "1.5 oz",
+        "COINTREAU": "0.5 oz",
+        "LEMON_JUICE": "1 oz",
+        "GARNISH": "lime wheel"
+    },
+    "Daiquiri": {
+        "WHITE_RUM": "2 oz",
+        "LIME_JUICE": "3/4 oz",
+        "SIMPLE_SYRUP": "3/4 oz"
+    },
+    "Manhattan": {
+        "BOURBON": "2 oz",
+        "SWEET_VERMOUTH": "1 oz",
+        "ANGOSTURA_BITTERS": "2 dashes",
+        "ORANGE_BITTERS": "1 dash",
+        "GARNISH": "cherry"
+    },
+    "The New England Sour": {
+        "VODKA": "2 oz",
+        "MAPLE_SYRUP": "0.5 oz",
+        "GRAPEFRUIT_JUICE": "4 oz",
+        "ANGOSTURA_BITTERS": "2 dashes",
+        "GARNISH": "lemon wedge"
+    }
+}
